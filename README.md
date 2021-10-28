@@ -1,10 +1,12 @@
 # Bank Tech Test
 
+Simple program to interact with your bank account: do deposits and withdraws, check your statments.
+
 ## Set up
 
 Forked or Cloned this repo and then run: 
 ```
->bundle
+> bundle
 ```
 
 ## Running tests
@@ -53,7 +55,7 @@ And finally you can track your income/outcome and see the statement:
 **Then** she would see
 
 ```
-date || credit || debit || balance
+Date || Credit || Debit || Balance
 14/01/2023 || || 500.00 || 2500.00
 13/01/2023 || 2000.00 || || 3000.00
 10/01/2023 || 1000.00 || || 1000.00
